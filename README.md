@@ -2,11 +2,16 @@
 
 ![Screenshot do projeto](./screenshot.png)
 
+<figure>
+    <img src="./screenshot.png" alt="Screenshot project" width="64%">
+    <figcaption>Uma captura de tela mostrando o projeto funcionando </figcaption>
+</figure>
+
 ---
 
 ## ✨ Sobre o Projeto
 
-O **StyleSort** é uma ferramenta web desenvolvida com HTML, CSS (via Tailwind CDN) e JavaScript puro, com a ajuda do ChatGPT, que permite reordenar as propriedades de estilos inline (`style=""`) dentro de elementos HTML. 
+O **Inline CSS styles organizer** é uma ferramenta web desenvolvida com HTML, CSS (via Tailwind CDN) e JavaScript puro, com a ajuda do ChatGPT, que permite reordenar as propriedades de estilos inline (`style=""`) dentro de elementos HTML. 
 
 Ele foi pensado para desenvolvedores e designers que precisam manter consistência e organização em códigos HTML — especialmente útil em projetos de e-mail marketing ou landing pages com muito estilo inline.
 
