@@ -1,4 +1,4 @@
-# 🔮 StyleSort: Reordenador de Inline Styles para HTML
+# 🔮 Inline CSS styles organizer
 
 ![Screenshot do projeto](./screenshot.png)
 
