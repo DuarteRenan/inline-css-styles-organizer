@@ -4,9 +4,9 @@ Veja o projeto funcionando aqui:<br>
 https://duarterenan.github.io/inline-css-styles-organizer/
 <br><br>
 <figure>
-      <a href="https://duarterenan.github.io/inline-css-styles-organizer" target="_blank" rel="noopener noreferrer"><img src="./screenshot.png" alt="Screenshot project" width="64%"></a>
+      <a href="https://duarterenan.github.io/inline-css-styles-organizer" target="_blank" rel="noopener noreferrer"><img src="./screenshot.png" alt="Screenshot project" width="64%"></a><br>
     <figcaption>Uma captura de tela mostrando o projeto funcionando </figcaption>
-</figure><br><br><br>
+</figure>
 
 
 
