@@ -1,12 +1,14 @@
 # 🔮 Inline CSS styles organizer
 
-Veja o projeto funcionando aqui:
+Veja o projeto funcionando aqui:<br>
 https://duarterenan.github.io/inline-css-styles-organizer/
-
+<br><br>
 <figure>
-    <img src="./screenshot.png" alt="Screenshot project" width="64%">
+      <a href="https://duarterenan.github.io/inline-css-styles-organizer" target="_blank" rel="noopener noreferrer"><img src="./screenshot.png" alt="Screenshot project" width="64%"></a>
     <figcaption>Uma captura de tela mostrando o projeto funcionando </figcaption>
-</figure>
+</figure><br><br><br>
+
+
 
 ---
 
