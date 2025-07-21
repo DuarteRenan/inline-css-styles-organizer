@@ -1,7 +1,5 @@
 # 🔮 Inline CSS styles organizer
 
-![Screenshot do projeto](./screenshot.png)
-
 <figure>
     <img src="./screenshot.png" alt="Screenshot project" width="64%">
     <figcaption>Uma captura de tela mostrando o projeto funcionando </figcaption>
