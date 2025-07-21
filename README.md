@@ -79,4 +79,4 @@ Abra o arquivo `index.html` no navegador.
 - Validação e aviso para HTML mal formatado
 - Modo de visualização lado a lado (antes/depois)
 - Suporte para mais atributos além de `style`
--** Transformar em uma extensão para VS Code ou app desktop**
+- <strong>Transformar em uma extensão para VS Code ou app desktop</strong>
